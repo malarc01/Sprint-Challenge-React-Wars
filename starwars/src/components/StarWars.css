@@ -1,0 +1,12 @@
+.character-list{
+    border: 3px dashed darkcyan;
+}
+.starwars-info{
+    border: 3px solid grey;
+}
+h3{
+    font-weight: bolder;
+    color: brown;
+    font-family: serif;
+    border-bottom: 1px dashed darkgoldenrod;
+}
